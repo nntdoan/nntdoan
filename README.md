@@ -1,18 +1,17 @@
-### What's going on good human? 👋 I'm Bo (meaning silly 🐮 in Vietnamese) ...
+## What's going on good human? 👋 I'm Bo (meaning silly 🐮 in Vietnamese) ...
 
 - 🎓 I'm a Artificial Intelligence B.Sc. student in the 🇳🇱 
 - 💥 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures.
-- 🥅 My hope for 20-21:
+- 🥅 My hope for 20-21: \
     (1) Graduate in one piece, \
     (2) Contribute to Open Source projects, \
     (3) Make some progress with my storytelling cinematography project, etc.
 
-### I draw sometimes ...
+## I draw sometimes ...
 
-![](/img/PostedDrawings.jpg)
-<img align="center" alt="bodhinfinity" width="40px" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+<div style="max-width:80%;height:auto;"><img align="center" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" /></div>
 
-### Let's hangout ...
+## Let's hangout ...
 
 <!--TOADD [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="nntdoan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -22,7 +21,7 @@
 <br />
 
 
-### Main Languages and Tools ...
+## Main Languages and Tools ...
 <img align="left" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20" > 
 <img align="left" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="20">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="20"/>
