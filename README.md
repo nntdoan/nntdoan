@@ -4,9 +4,9 @@
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
 💥 My hope for 2020-2021: <br />
-&nbsp; (+) Graduate in one piece, <br />
-&nbsp; (+) Contribute to Open Source projects, <br />
-&nbsp; (+) Make progress with DIM - my storytelling cinematography project
+&nbsp;&nbsp; (+) Graduate in one piece, <br />
+&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
+&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
 
 
 ### I draw sometimes 
@@ -43,11 +43,11 @@
 
 ### My GitHub Stats
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
+<a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=react">
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=react" />
 </a>
-<a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange"> 
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
+<a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=react"> 
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=react" />
   
 </a>
 </div>
