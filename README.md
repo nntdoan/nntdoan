@@ -1,15 +1,16 @@
-### What's up good human? I'm Bo (silly 🐮 in Vietnamese):
+## What's going on good human? <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="25px">
 
-🎓 I'm a Artificial Intelligence B.Sc. student in the 🇳🇱 \
-💥 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. \
-🥅 My hope for 20-21: \
-    - Graduate in one piece, \
-    - Contribute to Open Source projects, \
-    - Make some progress with DIM - a storytelling cinematography project
+### It's me, Bo! (a 🐮 in Vietnamese):
+🎓 I'm a Artificial Intelligence B.Sc. student in the :netherlands: \
+👀 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. \
+💙 My hope for 20-21: \
+- Graduate in one piece, \
+- Contribute to Open Source projects, \
+- Make some progress with DIM - a storytelling cinematography project
 
 ### I draw sometimes:
 <!-- <div style="max-width: 50vw;"> -->
-<img align="center" width="50%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+<img align="center" width="70%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
 <!-- </div> -->
 
 ### Let's hangout:
@@ -45,8 +46,8 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&langs_count=3">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&langs_count=3" />
 </a>
 </div>
 
