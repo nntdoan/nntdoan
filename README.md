@@ -1,9 +1,9 @@
-# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="30px"> What's going on good human? 
+# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human? 
 
 ### I'm Bo (a happy 🐮 in Vietnamese)
-🎓 Artificial Intelligence B.Sc. student in the Netherlands <br />
-👀 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
-💙 My hope for 20-21: <br />
+💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
+💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
+💥 My hope for 20-21: <br />
     (+) Graduate in one piece, <br />
     (+) Contribute to Open Source projects, <br />
     (+) Make progress with DIM - my storytelling cinematography project
@@ -37,14 +37,16 @@
 <!-- ### 📕 Latest Blog Posts -->
 <!-- To add later -->
 <!-- BLOG-POST-LIST:END -->
+<br />
 
 ### My GitHub Stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange" />
+<a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
 </a>
-<a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&hide=r&layout=compact&theme=slateorange"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&hide=r&layout=compact&theme=slateorange)" />
+<a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
+  
 </a>
 </div>
 
