@@ -1,19 +1,19 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="30px"> What's going on good human? 
 
-### It's Bo, a happy 🐮 in Vietnamese
-🎓 I'm a Artificial Intelligence B.Sc. student in the :netherlands: <br />
-👀 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
+#### I'm Bo (a happy 🐮 in Vietnamese)
+🎓 Artificial Intelligence B.Sc. student in the :netherlands: <br />
+👀 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
 💙 My hope for 20-21: <br />
     (+) Graduate in one piece, <br />
     (+) Contribute to Open Source projects, <br />
     (+) Make progress with DIM - my storytelling cinematography project
 
-### I draw sometimes:
+#### I draw sometimes ...
 <!-- <div style="max-width: 50vw;"> -->
 <img align="center" width="65%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
 <!-- </div> -->
 
-### Let's hangout:
+#### Let's hangout:
 
 <!--TOADD [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="nntdoan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -23,10 +23,10 @@
 <br />
 
 
-Languages and Tools:
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=A9A9A9)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=A9A9A9)
-![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=A9A9A9)
+#### Languages and Tools:
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=000000)
 
 
 <!-- Alternative way to to it -->
@@ -39,15 +39,12 @@ Languages and Tools:
 
 
 <br />
-<br />
-
-
 <!-- ### 📕 Latest Blog Posts -->
 <!-- To add later -->
 <!-- BLOG-POST-LIST:END -->
 
 
-### My GitHub Stats:
+#### My GitHub Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=gotham">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=gotham" />
