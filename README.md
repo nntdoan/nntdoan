@@ -1,6 +1,6 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="30px"> What's going on good human? 
 
-### It's Bo, happy 🐮 in Vietnamese!
+### It's Bo, a happy 🐮 in Vietnamese
 🎓 I'm a Artificial Intelligence B.Sc. student in the :netherlands: <br />
 👀 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
 💙 My hope for 20-21: <br />
@@ -25,8 +25,9 @@
 
 ### Main Languages and Tools:
 ![](https://img.shields.io/badge/--informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/--informational?style=flat&logo=cpp&logoColor=white&color=blue)
 
-<img align="left" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20" > 
+<!-- <img align="left" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20" >  -->
 <img align="left" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="20">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="20"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="20"/>
