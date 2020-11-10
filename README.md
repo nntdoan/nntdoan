@@ -20,6 +20,7 @@
 [<img align="left" alt="nntdoan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nntdoan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
@@ -39,11 +40,11 @@
 
 ### My GitHub Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange" />
+<a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=slateorange" />
 </a>
 <a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&hide=r&layout=compact&theme=slateorange"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&hide=r&layout=compact&theme=slateorange)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&hide=r&layout=compact&theme=slateorange)" />
 </a>
 </div>
 
