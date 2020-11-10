@@ -1,12 +1,12 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human!?!
 
-### 👧 Its meeeeee, Bo!
+### 👧 Its meeeeeee, Bo!
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
 💥 My current goals: <br />
-&nbsp;&nbsp;&nbsp; (+) Graduate in one piece, <br />
-&nbsp;&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
-&nbsp;&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
+&nbsp;&nbsp;&nbsp;&nbsp; (+) Graduate in one piece, <br />
+&nbsp;&nbsp;&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
+&nbsp;&nbsp;&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
 
 
 ### I draw sometimes 
