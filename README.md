@@ -3,14 +3,14 @@
 ### I'm Bo (a happy 🐮 in Vietnamese)
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
-💥 My hope for 20-21: <br />
+💥 My hope for 2020-21: <br />
     (+) Graduate in one piece, <br />
     (+) Contribute to Open Source projects, <br />
     (+) Make progress with DIM - my storytelling cinematography project
 
 ### I draw sometimes ...
 <!-- <div style="max-width: 50vw;"> -->
-<img align="center" width="65%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+<img align="center" width="60%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
 <!-- </div> -->
 
 ### Let's hangout:
@@ -37,15 +37,14 @@
 <!-- ### 📕 Latest Blog Posts -->
 <!-- To add later -->
 <!-- BLOG-POST-LIST:END -->
-<br />
 
 ### My GitHub Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
+  <img align="center" height="60px" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
 </a>
 <a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
+  <img align="center" height="60px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
   
 </a>
 </div>
