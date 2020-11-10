@@ -26,8 +26,8 @@
 ### Languages and Tools:
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=sql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/--informational?style=flat&logo=sql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-VS%Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 
 
 <!-- Alternative way to to it -->
