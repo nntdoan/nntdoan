@@ -1,12 +1,12 @@
-## What's going on good human? <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="25px">
+# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="30px"> What's going on good human? 
 
-### It's me, Bo! (a 🐮 in Vietnamese):
-🎓 I'm a Artificial Intelligence B.Sc. student in the :netherlands: \
-👀 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. \
-💙 My hope for 20-21: \
-- Graduate in one piece, \
-- Contribute to Open Source projects, \
-- Make some progress with DIM - a storytelling cinematography project
+### It's Bo, happy 🐮 in Vietnamese!
+🎓 I'm a Artificial Intelligence B.Sc. student in the :netherlands: <br />
+👀 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
+💙 My hope for 20-21: <br />
+    (+) Graduate in one piece, <br />
+    (+) Contribute to Open Source projects, <br />
+    (+) Make some progress with DIM - a storytelling cinematography project
 
 ### I draw sometimes:
 <!-- <div style="max-width: 50vw;"> -->
@@ -43,15 +43,15 @@
 
 ### My GitHub Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=gotham">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&theme=gotham" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&langs_count=3">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&langs_count=3" />
+<a > 
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&theme=gotham&layout=compact)" />
 </a>
 </div>
 
-
+<!-- href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r&theme=gotham&layout=compact" -->
 <!-- [youtube]: To add later... -->
 [email]: mailto:ngoc.n.t.doan@gmail.com
 [instagram]: https://www.instagram.com/bodhinfinity/
