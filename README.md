@@ -11,7 +11,7 @@
 
 ### I draw sometimes 
 <!-- <div style="max-width: 50vw;"> -->
-<img align="center" width="60%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+[<img align="center" width="60%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />][instagram]
 <!-- </div> -->
 
 ### Let's hangout
@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=000000)
-![](https://img.shields.io/badge/mysql-%2300f.svg-informational?&style=for-the-badge&logo=mysql&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-MySQL-informational?&style=for-the-badge&logo=mysql&logoColor=white&color=000000)
 
 
 <!-- Alternative way to to it -->
