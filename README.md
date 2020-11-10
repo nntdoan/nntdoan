@@ -9,7 +9,7 @@
 
 ## I draw sometimes ...
 <!-- <div style="max-width: 50vw;"> -->
-<img align="center" style="max-width: 50vw;" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+<img align="center" max-width="50vw;" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
 <!-- </div> -->
 
 ## Let's hangout ...
@@ -45,8 +45,8 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nntdoan&count_private=true&show_icons=true" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=php">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=php" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nntdoan&hide=r" />
 </a>
 </div>
 
