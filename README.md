@@ -1,12 +1,12 @@
-# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human? 
+# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human!?!
 
-### I'm Bo - "the cheerful cow" in Vietnamese
+### 👧 Its meeeeee, Bo!
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
-💥 My hope for 2020-2021: <br />
-&nbsp;&nbsp; (+) Graduate in one piece, <br />
-&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
-&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
+💥 My current goals: <br />
+&nbsp;&nbsp;&nbsp; (+) Graduate in one piece, <br />
+&nbsp;&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
+&nbsp;&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
 
 
 ### I draw sometimes 
