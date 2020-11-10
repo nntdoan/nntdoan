@@ -1,9 +1,9 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human? 
 
-### I'm Bo "the cheerful cow" in :vietnam:
+### I'm Bo - "the cheerful cow" in Vietnamese
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
-💥 My hope for 2020-21: <br />
+💥 My hope for 2020-2021: <br />
 &nbsp; (+) Graduate in one piece, <br />
 &nbsp; (+) Contribute to Open Source projects, <br />
 &nbsp; (+) Make progress with DIM - my storytelling cinematography project
@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-MySQL-informational?&style=for-the-badge&logo=mysql&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-MySQL-informational?&style=flat&logo=mysql&logoColor=white&color=000000)
 
 
 <!-- Alternative way to to it -->
@@ -44,10 +44,10 @@
 ### My GitHub Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange">
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=nntdoan&count_private=true&show_icons=true&hide=issues,prs&theme=slateorange" />
 </a>
 <a href="https://https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange"> 
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nntdoan&layout=compact&theme=slateorange" />
   
 </a>
 </div>
