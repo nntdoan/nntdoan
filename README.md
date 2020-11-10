@@ -1,15 +1,16 @@
-## What's going on good human? I'm Bo (meaning silly 🐮 in Vietnamese) ...
+## What's going on good human? I'm Bo (silly 🐮 in Vietnamese) ...
 
-🎓 I'm a Artificial Intelligence B.Sc. student in the 🇳🇱 
-💥 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures.
+🎓 I'm a Artificial Intelligence B.Sc. student in the 🇳🇱 \
+💥 I'm naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. \
 🥅 My hope for 20-21: \
     1. Graduate in one piece, \
     2. Contribute to Open Source projects, \
     3. Make some progress with DIM a storytelling cinematography project of mine
 
 ## I draw sometimes ...
-
-<div style="max-width:10%;"><img align="center" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" /></div>
+<!-- <div style="max-width: 50vw;"> -->
+<img align="center" style="max-width: 50vw;" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />
+<!-- </div> -->
 
 ## Let's hangout ...
 
