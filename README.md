@@ -3,16 +3,6 @@
 ### 👧 Its meeeeeee, Bo!
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
 💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
-💥 My current goals: <br />
-&nbsp;&nbsp;&nbsp;&nbsp; (+) Graduate in one piece, <br />
-&nbsp;&nbsp;&nbsp;&nbsp; (+) Contribute to Open Source projects, <br />
-&nbsp;&nbsp;&nbsp;&nbsp; (+) Make progress with DIM - my storytelling cinematography project
-
-
-### I draw sometimes 
-<!-- <div style="max-width: 50vw;"> -->
-[<img align="center" width="60%" alt="bodhinfinity" src="https://github.com/nntdoan/nntdoan/blob/Main/img/PostedDrawings.jpg" />][instagram]
-<!-- </div> -->
 
 ### Let's hangout
 
@@ -55,5 +45,5 @@
 
 <!-- [youtube]: To add later... -->
 [email]: mailto:ngoc.n.t.doan@gmail.com
-[instagram]: https://www.instagram.com/bodhinfinity/
+[instagram]: https://www.instagram.com/theartfrombo/
 [linkedin]: https://www.linkedin.com/in/nnt-doan/
