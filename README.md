@@ -1,24 +1,18 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human!?!
 
-### 👧 Its meeeeeee, Bo!
+### 👧 Hiiiiiiii!
 💥 Artificial Intelligence B.Sc. student in the Netherlands <br />
-💥 Naturally drawn to complex ideas, DIY tools, plants and fluffy creatures. <br />
+
 
 ### Let's hangout
 
 <!--TOADD [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="nntdoan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="nntdoan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nntdoan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Codewars Badge](https://www.codewars.com/users/booo/badges/micro)
+
 
 <br />
-
-### Languages and Tools
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-MySQL-informational?&style=flat&logo=mysql&logoColor=white&color=000000)
-
 
 <!-- Alternative way to to it -->
 <!-- <img align="left" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20" >  -->
