@@ -1,7 +1,7 @@
 # <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human!?!
 
 ### 👧 Hiiiiiiii!
-💥 ![Codewars Badge](https://www.codewars.com/users/booo/badges/small)
+![Codewars Badge](https://www.codewars.com/users/booo/badges/small)
 
 
 ### Let's hangout
