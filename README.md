@@ -1,9 +1,9 @@
-# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on good human!?!
+# <img src="https://github.com/nntdoan/nntdoan/blob/Main/img/wave.gif" width="35px"> What's going on human?
 
-![Codewars Badge](https://www.codewars.com/users/booo/badges/small)
+<!-- ![Codewars Badge](https://www.codewars.com/users/booo/badges/small) -->
 
 
-### 👧 Let's hangout
+### Let's hangout!
 
 <!--TOADD [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="nntdoan | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
